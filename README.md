@@ -30,9 +30,9 @@ Planificación hecha con el tablero de GitHub Projects (vista Roadmap).
 |---|---|---|
 | 1. Análisis (entender el problema) | 4–5 nov | Hecho |
 | 2. Diseño (prototipo de la GUI con WindowBuilder) | 6 nov | Hecho |
-| 3. Codificación (Java) | 7–9 nov | En curso |
-| 4. Pruebas (casos correctos y erróneos) | 10 nov | Pendiente |
-| 5. Mantenimiento (nueva funcionalidad) | 11 nov | Pendiente |
+| 3. Codificación (Java) | 7–9 nov | Hecho |
+| 4. Pruebas (casos correctos y erróneos) | 10 nov | Hecho |
+| 5. Mantenimiento (nueva funcionalidad) | 11 nov | Hecho |
 
 Las fechas se irán ajustando si cambian las previsiones, y al final se compara el Gantt inicial con el final.
 
