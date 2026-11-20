@@ -1,6 +1,6 @@
 # Proyecto1
 
-Segunda actividad del **proyecto intermodular**: un programa en Java con menú de consola que gestiona datos personales, un saldo y calcula la nómina mensual de un trabajador. Une dos asignaturas: **Entornos de Desarrollo** y **Programación**.
+Un programa en Java con menú de consola que gestiona datos personales, un saldo y calcula la nómina mensual de un trabajador.
 
 ## Qué hace el programa
 
@@ -21,29 +21,3 @@ Al arrancar enseña un menú principal con cuatro opciones:
 4. En **junio y diciembre** se suma una **paga extra de 700 €**.
 
 Ejemplo: con 2 productos de 100 €, 1 de 300 € y 1 de 500 € (1.000 € en ventas) la comisión es 100 €, los impuestos 14 € y la nómina neta 86 € (sin contar la paga extra).
-
-## Fases del proyecto
-
-Planificación hecha con el tablero de GitHub Projects (vista Roadmap).
-
-| Fase | Fechas | Estado |
-|---|---|---|
-| 1. Análisis (entender el problema) | 4–5 nov | Hecho |
-| 2. Diseño (prototipo de la GUI con WindowBuilder) | 6 nov | Hecho |
-| 3. Codificación (Java) | 7–9 nov | Hecho |
-| 4. Pruebas (casos correctos y erróneos) | 10 nov | Hecho |
-| 5. Mantenimiento (nueva funcionalidad) | 11 nov | Hecho |
-
-Las fechas se irán ajustando si cambian las previsiones, y al final se compara el Gantt inicial con el final.
-
-## Cómo ejecutarlo
-
-Necesitas tener instalado el JDK de Java. Compila el fichero `.java` con `javac` y ejecútalo con `java` desde la terminal. Si lo abres en un IDE como Eclipse, basta con ejecutar la clase principal.
-
-## Entregable
-
-Un PDF con el Gantt inicial y final, el código del `.java`, las pruebas (capturas de ejecuciones correctas y erróneas, con la causa y la solución de cada error) y los cambios propuestos en mantenimiento.
-
-## Ideas para mejorar
-
-La fase de mantenimiento servirá para proponer funcionalidad nueva y ver cómo afecta a cada etapa del proyecto.
